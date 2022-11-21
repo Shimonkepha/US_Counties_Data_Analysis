@@ -1,0 +1,25 @@
+Analysis Result
+
+It was discovered that six counties in year_2010 dataset are missing in year_2000 dataset
+While four counties found in year_2000 dataset are not in year_2010.
+
+year_2010_counties
+1. Hoonah-Angoon Census Area
+2. Petersburg Census Area
+3. Prince of Wales-Hyder Census Area
+4. Skagway Municipality
+5. Wrangell City and Borough
+6. Broomfield County
+
+year_2000_counties
+1. Prince of Wales-Outer Ketchikan Census Area, Alaska
+2. Skagway-Hoonah-Angoon Census Area, Alaska
+3. Wrangell-Petersburg Census Area, Alaska
+4. Clifton Forge city, Virginia
+
+Conclusion:
+1. It is noted that Skagway-Hoonah-Angoon Census Area, Alaska in year_2000 was split in Hoonah-Angoon Census Area and Skagway Municipality in year_2010
+2. Also, Wrangell-Petersburg Census Area, Alaska (2000) into Wrangell City and Borough and Petersburg Census Area (2010)
+3. Prince of Wales-Outer Ketchikan Census Area, Alaska (year_2000) was changed to Prince of Wales-Hyder Census Area in 2010.
+4. The likely reason for the split was an increase in population in the counties
+5. Further research is needed to ascertain what happened to Clifton Forge city, Virginia (2000) and Broomfield County (2010)
